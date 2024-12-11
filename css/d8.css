@@ -27,7 +27,6 @@
 }
 
 #headdiv {
-    height: 150px;
     max-width: var(--container-max-width-desktop, 1280px);
     padding: 0px 32px;
     align-items: center;
@@ -64,4 +63,40 @@
     text-align: center;
     color: #535862;
     font-size: 20px;
+}
+
+#img_container {
+    padding: 0 66px;
+    margin-top: 96px;
+    max-width: 1280px;
+    width: 100%;
+}
+
+#imgone {
+    width: 600px;
+    border-radius: 16px;
+}
+
+#imgcontainer_two {
+    max-width: 1280px;
+    padding: 0 66px;
+    margin-top: 96px;
+    text-align: right;
+}
+
+#img_containertwo {
+    width: 600px;
+    border-radius: 16px;
+
+}
+
+#windowcontainer_img {
+    max-width: 1280px;
+    padding:  66px;
+
+}
+
+#window_img {
+    width: 598px;
+    
 }
